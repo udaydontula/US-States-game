@@ -8,4 +8,6 @@ In this game we have to guess the different states of United states of America a
 
 ## Preview
 ![US states game preview](img/ussatates.png)
+
+
 **This how the game looks.**
